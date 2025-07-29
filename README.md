@@ -15,7 +15,7 @@ A simple responsive clothing store website built with HTML, CSS, and JavaScript.
 
 
 ## 🌐 Live Demo
-[View on GitHub Pages]((https://youssefmohamed18.github.io/Trendy-Store/))
+[View on GitHub Pages](https://youssefmohamed18.github.io/Trendy-Store/)
 
 
 ## 🔍 Preview
