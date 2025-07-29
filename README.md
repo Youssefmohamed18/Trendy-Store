@@ -19,7 +19,7 @@ A simple responsive clothing store website built with HTML, CSS, and JavaScript.
 
 
 ## 🔍 Preview
-![Screenshot](Trendy-store/screenshot.png)
+![Screenshot](screenshot.png)
 
 
 ---
